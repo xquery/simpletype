@@ -88,6 +88,20 @@ The schematron takes advantage of 'castable as' idiom.
 
 ```
 
+To use in your xml, just declare the `st` namespace and apply an
+`st:type` to an element.
+
+```
+<root xmlns:st="http://webcomposite.com/simpletype">
+    <element st:type="xs:string">1a2 watch spot run</element>
+    <element st:type="xs:integer">12</element>
+</root>
+```
+
+The limitations of this approach is that you are not applying types to
+attributes (fine with me).
+
+
 ## Using
 
 First you must [install schematron][http://www.bentoweb.org/refs/TCDL2.0/tsdtf_schematron.html]
