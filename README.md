@@ -4,7 +4,7 @@ When I start a project, its useful to be able to validate against XML
 Schema primitive datatypes, without having to fully drink the XML
 Schema koolaid.
 
-By using a schematron wrapper and a simple `st:type` attribute in my
+By using a [schematron](http://en.wikipedia.org/wiki/Schematron) wrapper and a simple `st:type` attribute in my
 xml I can achieve simple type validation as well as provide good
 abstraction for any future validation (be it schematron asserts or XML
 Schema).
