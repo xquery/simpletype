@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:st="http://webcomposite.com/simpletype">
-    <element st:type="string">1a2</element>
-    <element st:type="integer">12</element>
-    <element st:type="boolean">true</element>
     <element st:type="xs:string">1a2</element>
     <element st:type="xs:integer">12</element>
 </root>
