@@ -10,7 +10,9 @@ abstraction for any future validation (be it schematron asserts or XML
 Schema).
 
 This can probably be characterised as a 'tactical' approach to
-validation .. I am fully aware of [NVDL](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCIQFjAA&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNamespace-based_Validation_Dispatching_Language&ei=IqlNUIiHKs3IswajrYCADg&usg=AFQjCNFIkNLDK-jtAgeGr8dx0_dcPgwyVQ&sig2=B6M5nSR7p0xZawDvbSSexA) and the goodness of[ [XML Schema
+validation .. I am fully aware of
+[NVDL](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCIQFjAA&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNamespace-based_Validation_Dispatching_Language&ei=IqlNUIiHKs3IswajrYCADg&usg=AFQjCNFIkNLDK-jtAgeGr8dx0_dcPgwyVQ&sig2=B6M5nSR7p0xZawDvbSSexA)
+and the goodness of [XML Schema
 v1.1](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.xmlprague.cz%2F2012%2Fpresentations%2FWhats_new_3.0_XPath_XSLT_XSD_1_1.pdf&ei=tqdNUMyQIIrLswaWgoGACg&usg=AFQjCNFkn0VVtYHo7WyVxZ05wQFDHZHuYA&sig2=RHh_2_vwUDquW0J0bDcXhQ])
 but every once in a while this approach suits me.
 
